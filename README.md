@@ -34,7 +34,7 @@
 <br>
 
 # Projetos Concluídos:
-- [PetLife](https://github.com/wi2david/excepdevtrail/tree/main/PetLife) (Start na Programação - [OneBitCode](https://onebitcode.com))
+- [PetLife](https://github.com/wi2david/excepdevtrail/tree/main/PetLife) (Start na Programação - <a href="https://onebitcode.com" target="_blank">OneBitCode</a>)
 
 <br>
 
