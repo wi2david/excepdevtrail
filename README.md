@@ -35,8 +35,10 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
+# Projetos Concluídos:
+- PetLife (Start na Programação - [OneBitCode](https://onebitcode.com))
+
 
 # Mapa de Estudos para um Excelente Dev Full-stack, Cientista de Dados, Especialista em IoT, IA e Machine Learning
 
@@ -94,6 +96,3 @@
 - Otimização de hiperparâmetros
 - Deploy de modelos de Machine Learning
 
-
-# Projetos Concluídos:
-- PetLife (Start na Programação - [OneBitCode](https://onebitcode.com))
