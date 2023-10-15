@@ -25,7 +25,6 @@
 </details>
 
 <br>
-<br>
 
 <details>
 <summary><span style="font-size: larger; font-weight: bold">Métodos</span></summary>
@@ -33,12 +32,11 @@
 </details>
 
 <br>
-<br>
-<br>
 
 # Projetos Concluídos:
 - PetLife (Start na Programação - [OneBitCode](https://onebitcode.com))
 
+<br>
 
 # Mapa de Estudos para um Excelente Dev Full-stack, Cientista de Dados, Especialista em IoT, IA e Machine Learning
 
