@@ -1,0 +1,10 @@
+com\wi2david\todolist\task\ITaskRepository.class
+com\wi2david\todolist\user\IUserRepository.class
+com\wi2david\todolist\errors\ExceptionHandlerController.class
+com\wi2david\todolist\user\UserController.class
+com\wi2david\todolist\TodolistApplication.class
+com\wi2david\todolist\utils\Utils.class
+com\wi2david\todolist\task\TaskController.class
+com\wi2david\todolist\user\UserModel.class
+com\wi2david\todolist\filter\FilterTaskAuth.class
+com\wi2david\todolist\task\TaskModel.class

@@ -1,0 +1,1 @@
+Local para colocar arquivos estáticos, como páginas estáticas ou templates java, por exemplo
