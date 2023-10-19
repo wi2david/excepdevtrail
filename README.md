@@ -35,6 +35,7 @@
 
 # Projetos Concluídos:
 - [PetLife](https://github.com/wi2david/excepdevtrail/tree/main/PetLife) (Start na Programação - <a href="https://onebitcode.com" target="_blank">OneBitCode</a>)
+- [TodoList](https://github.com/wi2david/excepdevtrail/tree/main/todolist) (Java com Spring Boot - <a href="https://rocketseat.com.br" target="_blank">Rocketseat</a>)
 
 <br>
 
@@ -93,4 +94,3 @@
 - Aprendizado por reforço
 - Otimização de hiperparâmetros
 - Deploy de modelos de Machine Learning
-
