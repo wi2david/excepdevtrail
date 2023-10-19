@@ -1,0 +1,177 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: #263138;
+}
+
+header {
+  background: #FF9A6C;
+  padding: 24px 80px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header nav a {
+  color: #FFFF;
+  font-weight: 600;
+  padding: 32px;
+  text-decoration: none;
+}
+
+#start {
+  display: flex;
+  align-items: center;
+  gap: 32px;
+  padding: 24px 80px 128px 80px;
+  position: relative;
+}
+
+h1, h2 {
+  font-weight: 600;
+  font-size: 32px;
+  margin-bottom: 32px;
+}
+
+.paragraph {
+  line-height: 150%;
+  margin-bottom: 32px;
+}
+
+.button {
+  text-decoration: none;
+  color: #FFFF;
+  padding: 16px 32px;
+  background-color: #FF9A6C;
+  border-radius: 8px;
+}
+
+.transparent-button {
+  text-underline-offset: 4px;
+  color: #ff725e;
+  padding: 16px 32px;
+  background-color: transparent;
+}
+
+.absolute {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: -10;
+}
+
+#clinic {
+  display: flex;
+  align-items: center;
+  gap: 64px;
+  padding: 64px 80px;
+}
+
+#clinic li {
+  margin-bottom: 16px;
+  margin-left: 32px;
+}
+
+#pharmacy {
+  padding: 64px 80px;
+  text-align: center;
+}
+
+#pharmacy img {
+  margin: 64px auto;
+}
+
+#pharmacy .paragraph {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+#doubts {
+  display: flex;
+  align-items: center;
+  gap: 64px;
+  padding: 64px 80px;
+}
+
+.doubt {
+  position: relative;
+}
+
+.doubt h3 {
+  border: 2px solid #ff725e;
+  border-radius: 8px;
+  cursor: pointer;
+  padding: 24px;
+}
+
+.doubt img {
+  position: absolute;
+  top: 32px;
+  right: 24px;
+}
+
+.doubt .paragraph {
+  border-right: 1px solid #ff725e;
+  border-left: 1px solid #ff725e;
+  border-bottom: 1px solid #ff725e;
+  border-radius: 0 0 8px 8px;
+  margin-top: -8px;
+  padding: 0 24px;
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+  transition: .2s;
+}
+
+.doubt.active .paragraph {
+  height: fit-content;
+  opacity: 1;
+  padding: 24px;
+}
+
+footer {
+  background-color: rgba(255, 152, 108, 0.25);
+  display: flex;
+  justify-content: space-between;
+  gap: 80px;
+  padding: 64px 80px;
+}
+
+footer img, footer .title {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 24px;
+}
+
+footer nav a {
+  text-decoration: none;
+  color: #263138;
+  display: block;
+  margin-bottom: 16px;
+}
+
+footer p {
+  margin-bottom: 16px;
+  max-width: 350px;
+}
+
+footer p a {
+  text-decoration: none;
+  color: #263138;
+}
+
+#copyright {
+  background-color: #263138;
+  color: #FFFF;
+  padding: 24px;
+  text-align: center;
+}
+
+#copyright a {
+  color: #FF9A6C;
+}
